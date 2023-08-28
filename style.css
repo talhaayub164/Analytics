@@ -1,0 +1,315 @@
+.container{
+	background-color: light gray;
+	width: 100%;
+	height: 90vh;
+}
+.row{
+	width: 100%;
+	height: 6vh;
+	background-color: black;
+	color: white;
+	display: flex;
+	margin-top: -1vh;
+}
+.text{
+	font-size: 25px;
+	margin-left: 95%;
+	margin-top: 1vh;
+
+}
+.box{
+	width: 25vw;
+	height: 100vh;
+	box-shadow: 3px 5px 10px 10px lightgray;s
+}
+.row1{
+	display: flex;
+}
+.text p{
+	display: flex;
+	margin-left: -20vw;
+	font-size: 18px;
+}
+.logo-1{
+	margin-left: -19vw;
+	margin-top: 8vh;
+}
+.Dashboard{
+	margin-top: 5vh;
+	margin-left: 1vw;
+}
+.overview:hover{
+	width: 25vw;
+	transition: 0.3s;
+	height: 7vh;
+	background-color:blue;
+	color: white;
+	color: green;
+}
+.overview img{
+	margin-left: 1vw;
+	margin-top: 1.5vh;
+}
+.overview h3{	
+	margin-top: -4.5vh;
+	margin-left: 4vw;
+}
+.Icon:hover{
+	margin-top: 2vh;
+	margin-left: 1vw;
+	transition: 0.3s ;
+	color: blue;
+}
+.Icon img{
+	margin-left: 1vw;
+}
+.Icon h3{
+	margin-left: 4vw;
+	margin-top: -4vh;
+}
+.box-center{
+	margin-left: 27vw;
+	margin-top: -97vh;
+}
+.box-center h4{
+	margin-left: 2.2vw;
+	margin-top: -4vh;
+}
+.row-1{
+	display: flex;
+}
+.box-1{
+	width: 18vw;
+	height: 20vh;
+	background-color: red;
+	color: white;
+}
+.box-1 img{
+	margin-left: 1vw;
+	margin-top: 2vh;
+}
+.box-1 h4{
+	margin-left: 1vw;
+	margin-top: 2vh;
+}
+.box-1 p{
+	margin-left: 15vw;
+	margin-top: -17vh;
+}
+.box-2{
+	width: 18vw;
+	height: 20vh;
+	background-color: blue;
+	color: white;
+	margin-left: 1.5vw;
+}
+.box-2 img{
+	margin-left: 1vw;
+	margin-top: 2vh;
+}
+.box-2 h4{
+	margin-left: 1vw;
+	margin-top: 2vh;
+}
+.box-2 p{
+	margin-left: 15vw;
+	margin-top: -15vh;
+}
+.box-3{
+	width: 18vw;
+	height: 20vh;
+	background-color: green;
+	color: white;
+	margin-left: 1.5vw;
+}
+.box-3 img{
+	margin-left: 1vw;
+	margin-top: 2vh;
+}
+.box-3 h4{
+	margin-left: 1vw;
+	margin-top: 2vh;
+}
+.box-3 p{
+	margin-left: 15vw;
+	margin-top: -17vh;
+}
+.box-4{
+	width: 18vw;
+	height: 20vh;
+	background-color: orange;
+	color: white;
+	margin-left: 1.5vw;
+}
+.box-4 img{
+	margin-left: 1vw;
+	margin-top: 2vh;
+}
+.box-4 h4{
+	margin-left: 1vw;
+	margin-top: 2vh;
+}
+.box-4 p{
+	margin-left: 15vw;
+	margin-top: -18vh;
+}
+.Region{
+	margin-top: 10vh;
+	margin-left: -2vw;
+}
+.Region img{
+	width: 28vw;
+	height: 55vh;
+	margin-left: 2vw;
+}
+.Feeds {
+	margin-left: 28vw;
+	margin-top: -61vh;
+}
+.row3{
+	width: 45vw;
+	background-color: white;
+	height: 6vh;
+	box-shadow: 2px 2px 5px 5px lightgray;
+	margin-left: 2vw;
+	margin-top: 2vh;
+}
+.row3 img{
+	margin-left: 1vw;
+}
+.row3 h5{
+	margin-top: -4vh;
+	margin-left: 8vw;
+}
+.row3 p{
+	margin-left: 36vw;
+	margin-top: -6vh;
+}
+.row4{
+	width: 45vw;
+	height: 6vh;
+	margin-left: 2vw;
+	margin-top: 2vh;
+	background-color: lightgray;
+}
+.row4 img{
+	margin-left: .7vw;
+	margin-top: 1vh;
+	width: 2vw;
+	height: 4vh;
+}
+.row4 h5{
+	margin-top: -4vh;
+	margin-left: 8vw;
+}
+.row4 p{
+	margin-left: 36vw;
+	margin-top: -6vh;
+}
+.country button{
+	margin-top: 2vh;
+	color: black;
+	width: 12;
+	height: 6vh;
+	background-color: black;
+	color: white;
+	cursor: pointer;
+}
+.Recent{
+	margin-top: 5vh;
+}
+.recent-box{
+	width: 72vw;
+	height: 25vh;
+	background-color: white;
+	box-shadow: 5px 5px 10px 10px lightgray;
+}
+.profile{
+	display: flex;
+}
+.profile img{
+	margin-left: 1vw;
+}
+.profile p{
+	margin-left: 1vw;
+}
+.recent{
+	margin-top: 6vh;
+}
+.john img{
+	width: 6vw;
+	height: 8vh;
+}
+.john h4{
+	margin-left: 10vw;
+	margin-top: -6vh;
+}
+.john p{
+	margin-left: 13vw;
+	margin-top: -6vh;
+	color: gray;
+}
+.john h5{
+	margin-left: 10vw;
+}
+.bo img{
+	width: 6vw;
+	height: 8vh;
+}
+.bo h4{
+	margin-left: 10vw;
+	margin-top: -6vh;
+}
+.bo p{
+	margin-left: 13vw;
+	margin-top: -6vh;
+	color: gray;
+}
+.bo h5{
+	margin-left: 10vw;
+}
+.box0{
+	background-color: black;
+	width: 80vw;
+	height: 40vh;
+	color: white;
+}
+.box0 h3{
+	margin-left: 5vw;
+	padding-top: 8vh;
+}
+.row0{
+	width: 18vw;
+	height: 1vh;
+	background-color: green;
+	margin-left: 5vw;
+	padding-top: -2vh;
+}
+.row0 p{
+	padding-top: 2vh;
+}
+.next h3{
+	margin-left: 26vw;
+	margin-top: -15vh;
+}
+.row01{
+	width: 18vw;
+	height: 1vh;
+	background-color: red;
+	margin-left: 26vw;
+}
+.row01 p{
+	padding-top: 2vh;
+}
+.next1 h3{
+	margin-left: 46vw;
+}
+.row02{
+	width: 18vw;
+	height: 1vh;
+	background-color: orange;
+	margin-left: 46vw;
+}
+.row02 p{
+	padding-top: 2vh;
+}
